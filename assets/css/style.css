@@ -21,11 +21,7 @@ q:before, q:after { content: ''; content: none; }
 table { border-collapse: collapse; border-spacing: 0; }
 a { text-decoration: none; }
 
-/* ==|== Styles ===============================================================
-   Author: Nathan Gordon @gordonnl http://cinemont.com
-   ========================================================================== */
 
-/* ==|== Typography ========================================================= */
 
 @font-face {
     font-family: 'pablo-icons';
